@@ -1,0 +1,15 @@
+{
+  "dev_type" : "sensor",
+  "id": 1,
+  "location" : "shenzhen",
+  "temp" : 25,
+  "humid": 84,
+  "time": {
+    "year":   2016,
+    "month":  4,
+    "day":    20,
+    "hour":   12,
+    "minute": 4,
+    "second": 5
+  }
+}

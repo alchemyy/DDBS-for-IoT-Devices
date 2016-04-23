@@ -1,0 +1,7 @@
+{
+    "dev_type" : "sensor",
+    "id": 1,
+    "location" : "shenzhen",
+    "temp" : 25,
+    "humid": 84
+}
